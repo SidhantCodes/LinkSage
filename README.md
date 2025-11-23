@@ -15,4 +15,4 @@ LinkSage is built using the **MERN stack (MongoDB, Express, React, Node.js)** fo
 
 ---
   
-🚀 **Make your links smarter with LinkSage!**
+
