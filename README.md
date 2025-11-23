@@ -1,7 +1,5 @@
 # LinkSage  
 
-LinkSage is a simple and efficient URL shortener that allows users to generate compact, easy-to-share links. Designed for speed and reliability, LinkSage ensures that long URLs can be shortened into custom-formatted links while maintaining seamless redirection.  
-
 ## Features  
 - **Custom Short Links** – Every shortened URL follows a consistent format.  
 - **Instant Redirection** – Clicking a short link automatically redirects users to the original URL.  
